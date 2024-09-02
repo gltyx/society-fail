@@ -102,7 +102,7 @@ var cnItems = {
     "Build the Tool Workshop": "建造工具作坊",
     "Build the Water Purification System": "建造净水系统",
     "Build the Well": "打井",
-    "Could this help with wood production?": "这对木材生产有帮助吗?",
+    "Could this help with wood production?": "这对木头生产有帮助吗?",
     "Could this provide water?": "这可以提供水吗?",
     "Crop Master": "作物大师",
     "Efficient": "非常高效。",
