@@ -224,6 +224,9 @@
           padding: 0 0.5em;
         }
 
+        td:nth-child(1) {
+          width: 10%;
+        }
         td:nth-child(2) {
           width: 100%;
         }
