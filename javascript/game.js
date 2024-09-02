@@ -297,10 +297,10 @@ function loadGame() {
         document.getElementById('game-over-screen').classList.add('hidden');
     }
 }
-
+function pauseGame(){}
 // Modify the resetGame function
 function resetGame(fromGameOver = false) {
-    if (!fromGameOver && !confirm("Are you sure you want to reset the game? All progress will be lost.")) {
+    if (!fromGameOver && !confirm("你确定要重置游戏吗?所有的游戏进度都将付诸东流。")) {
         return;
     }
 
