@@ -178,7 +178,7 @@ function togglePause() {
  * Resets the game to its initial state and returns to the start screen.
  */
 function resetGame() {
-  if (confirm("Are you sure you want to reset the game? All progress will be lost.")) {
+  if (confirm("你确定要重置游戏吗？所有的进度都将付诸东流。")) {
     console.log('Game reset');
     stopTime();
     resetTime();
